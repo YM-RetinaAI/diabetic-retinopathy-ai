@@ -1,3 +1,7 @@
+# Project: generated plots / chart artifacts
+outputs/
+*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
